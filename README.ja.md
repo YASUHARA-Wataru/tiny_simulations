@@ -28,7 +28,7 @@ tiny_simulations/
 ```
 
 ## 日本語ブログ
-https://qiita.com/YASUHARA-Wataru
+https://qiita.com/YASUHARA-Wataru/items/dffe14632b3f3af6d34b
 
 ## License
 MIT License
