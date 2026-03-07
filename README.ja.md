@@ -27,6 +27,10 @@ tiny_simulations/
 └─ README.md
 ```
 
+## Example figure
+![example_fig](fig4readme/stubborn2.png)
+
+
 ## 日本語ブログ
 https://qiita.com/YASUHARA-Wataru/items/dffe14632b3f3af6d34b
 

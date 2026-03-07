@@ -25,6 +25,8 @@ tiny_simulations/
 ├─ X_vs_threads/
 └─ README.md
 ```
+## Example figure
+![example_fig](fig4readme/stubborn2.png)
 
 ## Japanese blog
 https://qiita.com/YASUHARA-Wataru/items/dffe14632b3f3af6d34b
